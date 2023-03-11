@@ -1,3 +1,6 @@
+import streamlit as it
+import sklearn
+import plotly
 # -*- coding: utf-8 -*-
 """S3-MC4AI-Gỉai PT Bậc nhất.ipynb
 
